@@ -32,7 +32,7 @@ section {
 }
 
 .logo {
-    width: 160px;
+    width: 180px;
     height: 80px;
     background-image: url(../img/Logo/5.png);
     background-repeat: no-repeat;
@@ -48,8 +48,8 @@ ul {
 }
 /* Topo ul */
 section ul {
-    margin-top: 30px;
-    background: #b10333;
+    margin-top: 20px;
+    background: #77a0d1;
     float: left;
 }
 /* Topo ul li */
@@ -74,18 +74,17 @@ section ul .primeiro a {
 }
 /* topo */
 section ul a:hover {
-    color: #69001d;
+    color: #1e1b69;
 }
 
 body.home nav a#home,
-body.brasil nav a#brasil,
-body.internacional nav a#internacional,
-body.economia nav a#economia,
-body.saude nav a#saude,
-body.ciencias nav a#ciencias,
-body.fotos nav a#fotos {
+body.linguagem nav a#linguagem,
+body.banco nav a#banco,
+body.tendencia nav a#tendencia,
+body.seguranca nav a#seguranca,
+body.quiz nav a#quiz {
     color: #fff;
-    background: #de003e;
+    background: #1c189b;
     cursor: text;
 }
 
